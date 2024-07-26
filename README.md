@@ -52,6 +52,8 @@ Replace with appropriate paths in the code.
 
 
 ## Citation
+If you find our work useful for your research and applications, please cite using this BibTeX:
+```bibtex
 @misc{s2024longtermadmemorabilityunderstanding,
             title={Long-Term Ad Memorability: Understanding and Generating Memorable Ads}, 
             author={Harini S I au2 and Somesh Singh and Yaman K Singla and Aanisha Bhattacharyya and Veeky Baths and Changyou Chen and Rajiv Ratn Shah and Balaji Krishnamurthy},
@@ -60,3 +62,4 @@ Replace with appropriate paths in the code.
             archivePrefix={arXiv},
             primaryClass={cs.CL},
             url={https://arxiv.org/abs/2309.00378}}
+```
