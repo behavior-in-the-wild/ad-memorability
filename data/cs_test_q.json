@@ -1,0 +1,882 @@
+[
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"HR peace of mind for SMBs\" for the brand Adp",
+    "question_id": 1091
+  },
+  {
+    "question": "Generate the detailed description of a 34 second memorable advertisement titled \"How to: Recycle Throughout the House |Recycle Often. Recycle Right.\" for the brand Waste Management",
+    "question_id": 1688
+  },
+  {
+    "question": "Generate the detailed description of a 18 second memorable advertisement titled \"Maytag Overnight Wash and Dry\" for the brand Costco",
+    "question_id": 2112
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Ask our people: Why is working in insurance exciting?\" for the brand Aig",
+    "question_id": 820
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Hari Bol Official Promo | OMG - Oh My God | Akshay Kumar & Paresh Rawal\" for the brand Viacom",
+    "question_id": 1776
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Introducing the EVOS M5000 Cell Imaging System\" for the brand Thermofisher Scientific",
+    "question_id": 1980
+  },
+  {
+    "question": "Generate the detailed description of a 44 second memorable advertisement titled \"Rolesor \u2013 A Meeting of Metals\" for the brand Rolex",
+    "question_id": 243
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"I\u2019MPOSSIBLE | IMPOSSIBLE IS NOTHING | adidas\" for the brand Adidas",
+    "question_id": 213
+  },
+  {
+    "question": "Generate the detailed description of a 49 second memorable advertisement titled \"Get Started with Creative Cloud Library Packs | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 1310
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Alexa Auto \u2013 Listening to Audiobooks\" for the brand Amazon",
+    "question_id": 2633
+  },
+  {
+    "question": "Generate the detailed description of a 59 second memorable advertisement titled \"Financial Professional Tips: Planning for Your Own Care\" for the brand Prudential Financial",
+    "question_id": 2130
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"Gatorade | Make Your Own Footsteps with Suni Lee\" for the brand Gatorade",
+    "question_id": 362
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Big Lots is on Instacart!\" for the brand Biglots",
+    "question_id": 2241
+  },
+  {
+    "question": "Generate the detailed description of a 19 second memorable advertisement titled \"Getting Fast Test Results with BinaxNOW\u2122\" for the brand Abbott Laboratories",
+    "question_id": 1575
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Pac Man 256 on NVIDIA SHIELD\" for the brand Nvidia",
+    "question_id": 2410
+  },
+  {
+    "question": "Generate the detailed description of a 25 second memorable advertisement titled \"#OrangeCon | The Ultimate Fan Event - OITNB | Netflix\" for the brand Netflix",
+    "question_id": 860
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"growing demand | chevron\" for the brand Chevron",
+    "question_id": 1745
+  },
+  {
+    "question": "Generate the detailed description of a 20 second memorable advertisement titled \"Dermablend How To Cover Dark Spots | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 799
+  },
+  {
+    "question": "Generate the detailed description of a 43 second memorable advertisement titled \"Best Shirts. Finest Cotton. Good on You | Brooks Brothers x Supima\" for the brand Brooks Brothers",
+    "question_id": 398
+  },
+  {
+    "question": "Generate the detailed description of a 22 second memorable advertisement titled \"BIY Bunny Napkins (Bunny-It Yourself)\" for the brand Bedbath&Beyond",
+    "question_id": 1439
+  },
+  {
+    "question": "Generate the detailed description of a 43 second memorable advertisement titled \"\"How Nice of You to Join Us\" Clip | Disney's Jungle Cruise | July 30\" for the brand Walt-Disney",
+    "question_id": 1944
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Skintervention with Danielle Brooks\" for the brand Esteelauder",
+    "question_id": 1052
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Waterpik Cordless Plus Water Flosser at Bed Bath & Beyond\" for the brand Bedbath&Beyond",
+    "question_id": 2649
+  },
+  {
+    "question": "Generate the detailed description of a 48 second memorable advertisement titled \"Women\u2019s Lacrosse Tips: How to Cradle the Ball\" for the brand Dick'S Sporting Goods",
+    "question_id": 2437
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"2023 Lexus UX: Apartment Living | Lexus\" for the brand Lexus",
+    "question_id": 294
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"New Fitbit Alta HR - \"Tightrope\"\" for the brand Fitbit ",
+    "question_id": 296
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"STANLEY FatMax\u00ae Simulated Diamond Tip Screwdrivers\" for the brand Stanley Black&Decker",
+    "question_id": 1870
+  },
+  {
+    "question": "Generate the detailed description of a 39 second memorable advertisement titled \"Installation Instructions: FOAMULAR\u00ae Extruded Polystyrene (XPS) Rigid Foam\" for the brand Owenscorning",
+    "question_id": 1617
+  },
+  {
+    "question": "Generate the detailed description of a 28 second memorable advertisement titled \"13 Reasons Why | Season 2 Announcement [HD] | Netflix\" for the brand Netflix",
+    "question_id": 1805
+  },
+  {
+    "question": "Generate the detailed description of a 44 second memorable advertisement titled \"Xerox VersaLink Quick Tip: Setting up SimpleID\" for the brand Xerox",
+    "question_id": 1893
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Fixodent Plus Adhesive with Audio Description\" for the brand Procter&Gamble",
+    "question_id": 1565
+  },
+  {
+    "question": "Generate the detailed description of a 58 second memorable advertisement titled \"Cardinal Health\u2122 Protexis\u2122 surgical gloves double-gloving educational video\" for the brand Cardinalhealth",
+    "question_id": 1616
+  },
+  {
+    "question": "Generate the detailed description of a 43 second memorable advertisement titled \"How to Sign Up for My Account | Managing Your SCE Account\" for the brand Edison International",
+    "question_id": 1498
+  },
+  {
+    "question": "Generate the detailed description of a 59 second memorable advertisement titled \"American Airlines travel app redesigned for iOS7\" for the brand American Airlines Group",
+    "question_id": 798
+  },
+  {
+    "question": "Generate the detailed description of a 20 second memorable advertisement titled \"Life Insurance at a Member-Only Value\" for the brand Costco",
+    "question_id": 2139
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Find Your Fit - 2014\" for the brand Fitbit ",
+    "question_id": 464
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"It's Your Moment\" for the brand Neiman Marcus",
+    "question_id": 298
+  },
+  {
+    "question": "Generate the detailed description of a 39 second memorable advertisement titled \"Dallas #HealthcareHeroes \"We Asked\" Full\" for the brand Energy Transfer",
+    "question_id": 819
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"The Art of Studio Fix: Smooth and Sculpt | MAC Cosmetics\" for the brand Mac Cosmetics",
+    "question_id": 537
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"GAP | Spring 22 Khaki\" for the brand Gap",
+    "question_id": 426
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Genuine Ford Parts: Keep Your Ford A Ford | Ford Service | Ford\" for the brand Ford Motor Company",
+    "question_id": 1921
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"RALPH LAUREN | The CP-93 Limited Edition Collection\" for the brand Ralphlauren",
+    "question_id": 2466
+  },
+  {
+    "question": "Generate the detailed description of a 34 second memorable advertisement titled \"iPhone X \u2014 How to shoot Slo-mo \u2014 Apple\" for the brand Apple",
+    "question_id": 2051
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Find the One - Rotten Mango\" for the brand Spotify",
+    "question_id": 407
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Second Shift, First Love - Advance Auto Parts\" for the brand Advance Autoparts",
+    "question_id": 1597
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Facebook Groups Presents: La Mejor Bakery\" for the brand Facebook",
+    "question_id": 1614
+  },
+  {
+    "question": "Generate the detailed description of a 36 second memorable advertisement titled \"bareMinerals barePro | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 1227
+  },
+  {
+    "question": "Generate the detailed description of a 59 second memorable advertisement titled \"MCS Star, Configuration Software | The Highlight Reel | 105\" for the brand Rockwell Automation",
+    "question_id": 856
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Introducing our new fragrance, PERFECT MARC JACOBS\" for the brand Marc Jacobs",
+    "question_id": 268
+  },
+  {
+    "question": "Generate the detailed description of a 17 second memorable advertisement titled \"Watermelon Tap Kit for Easy Juice #shorts\" for the brand Williams-Sonoma",
+    "question_id": 2358
+  },
+  {
+    "question": "Generate the detailed description of a 25 second memorable advertisement titled \"#HowTo: Soft Blur Matte Lips \ud83d\udc8b\" for the brand Esteelauder",
+    "question_id": 1572
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"3X | Jace Chan | #NeverStopExploring | American Express\" for the brand American Express",
+    "question_id": 1788
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Rolls-Royce | Best Seat In The House\" for the brand Rolls Royce",
+    "question_id": 343
+  },
+  {
+    "question": "Generate the detailed description of a 32 second memorable advertisement titled \"Inkaar - Exclusive HD (30 Second Promo)\" for the brand Viacom",
+    "question_id": 2579
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Flesh | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 2588
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"F-35A Gun Fires 181 Rounds\" for the brand Lockheed Martin",
+    "question_id": 1211
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Find It, Tour It and Own It With Zillow (:15)\" for the brand Zillow",
+    "question_id": 461
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"CarMax | Ridin\u2019 Thirty | 30-Day Money Back Guarantee\" for the brand Carmax",
+    "question_id": 2457
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Watch & learn from creatives as they stream LIVE on Behance | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 2433
+  },
+  {
+    "question": "Generate the detailed description of a 18 second memorable advertisement titled \"Lauren Ralph Lauren Fashion Show Teaser: Spring 2011\" for the brand Ralphlauren",
+    "question_id": 1549
+  },
+  {
+    "question": "Generate the detailed description of a 25 second memorable advertisement titled \"Is Burt Real?\" for the brand Burts Bees",
+    "question_id": 501
+  },
+  {
+    "question": "Generate the detailed description of a 53 second memorable advertisement titled \"Develop. Connect. Expand. TI wireless sensor kit\" for the brand Texas Instruments",
+    "question_id": 2062
+  },
+  {
+    "question": "Generate the detailed description of a 32 second memorable advertisement titled \"Turkey - TV Commercial for Milka\" for the brand Mondelez International",
+    "question_id": 929
+  },
+  {
+    "question": "Generate the detailed description of a 32 second memorable advertisement titled \"Cummins Home Generator Restores Power after Anchorage, Alaska Earthquake\" for the brand Cummins",
+    "question_id": 930
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Home Exterior Color Tips - Sherwin-Williams\" for the brand Sherwin-Williams",
+    "question_id": 1267
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Brainly Keep Learning 30sec Final 16x9\" for the brand Brainly",
+    "question_id": 83
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"Altered Carbon: Season 2 | Cast Announcement [HD] | Netflix\" for the brand Netflix",
+    "question_id": 2301
+  },
+  {
+    "question": "Generate the detailed description of a 41 second memorable advertisement titled \"Diligence. Homework. Preparation | Force 2 | Dialogue Promo | John Abraham | Sonakshi Sinha\" for the brand Viacom",
+    "question_id": 975
+  },
+  {
+    "question": "Generate the detailed description of a 55 second memorable advertisement titled \"Desta: The Memories Between | Official Game Teaser | Netflix\" for the brand Netflix",
+    "question_id": 2098
+  },
+  {
+    "question": "Generate the detailed description of a 39 second memorable advertisement titled \"How to Make Taco Seasoning | Kroger Recipes | Kroger\" for the brand Kroger",
+    "question_id": 1493
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Elvive Wonder Water In-Shower Treatment\" for the brand L'Oreal Paris",
+    "question_id": 110
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"The Call of the Wild | Sounds of the Wild\" for the brand Walt-Disney",
+    "question_id": 1137
+  },
+  {
+    "question": "Generate the detailed description of a 41 second memorable advertisement titled \"Demo: 900-V-5kW bidirectional AC-DC Converter with GaN\" for the brand Texas Instruments",
+    "question_id": 1586
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Red Riding Hood\" for the brand Amazon",
+    "question_id": 866
+  },
+  {
+    "question": "Generate the detailed description of a 14 second memorable advertisement titled \"PRADA CANDY - RETHINK REALITY - SENSATIONS\" for the brand Prada",
+    "question_id": 221
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"3M\u2122 Advanced Filtering Face Mask - Elevate Your Air\" for the brand 3M",
+    "question_id": 2604
+  },
+  {
+    "question": "Generate the detailed description of a 36 second memorable advertisement titled \"Cisco Network Switching Warranties- Lucky's Caf\u00e9 (REMOVE 2/24/20)\" for the brand Cisco Systems",
+    "question_id": 1794
+  },
+  {
+    "question": "Generate the detailed description of a 18 second memorable advertisement titled \"Save time and your fingers in the kitchen with this mandoline\" for the brand Williams-Sonoma",
+    "question_id": 1910
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"College Ready\" for the brand Walmart",
+    "question_id": 312
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"The Fantastical World of Adobe Stock | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 2403
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Bright & Dreamy: Pastel Tint| Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 2003
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"\"Wayfair's Got You Covered\" - 2016 Commercial\" for the brand Wayfair",
+    "question_id": 2318
+  },
+  {
+    "question": "Generate the detailed description of a 49 second memorable advertisement titled \"Electric Vehicle Heads-Up-Display - AT&T Innovation | AT&T\" for the brand At&T",
+    "question_id": 1912
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Southwest Airlines: Fly for Fewer Points\" for the brand Southwest Airlines",
+    "question_id": 1527
+  },
+  {
+    "question": "Generate the detailed description of a 51 second memorable advertisement titled \"Whirlpool 18 High Velocity Standing Fan\" for the brand Costco",
+    "question_id": 1759
+  },
+  {
+    "question": "Generate the detailed description of a 29 second memorable advertisement titled \"G-B001M Styling movie\uff1aCASIO G-SHOCK\" for the brand Casio",
+    "question_id": 529
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"#SenseTheMoment with Radiant Mirage | Luxury Fragrance Collection\" for the brand Esteelauder",
+    "question_id": 1062
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"NVIDIA Omniverse: Exploring DeepSearch with Activision\" for the brand Nvidia",
+    "question_id": 1181
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Dry-Brined Turkey Breast | Simple Weeknight Dinner | Albertsons\" for the brand Albertsons",
+    "question_id": 1839
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"The Cuphead Show! | Calling All Bosses | Netflix\" for the brand Netflix",
+    "question_id": 974
+  },
+  {
+    "question": "Generate the detailed description of a 47 second memorable advertisement titled \"Squid Game: The Challenge | Final Casting Call | Netflix\" for the brand Netflix",
+    "question_id": 2279
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Grant Prideco extends your reach with our new Advanced Sour Service HS3TM Drill Pipe\" for the brand Nov",
+    "question_id": 880
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"\"Kelly's Home Truths\" Wayfair's Kelly Clarkson 2022 Spot\" for the brand Wayfair",
+    "question_id": 2297
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Vehicle to Vehicle Communication | Autoliv\" for the brand Autoliv",
+    "question_id": 1108
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Facebook Groups: Dance Accepts Everyone\" for the brand Facebook",
+    "question_id": 2507
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"Bike to Work Day at NVIDIA\" for the brand Nvidia",
+    "question_id": 2069
+  },
+  {
+    "question": "Generate the detailed description of a 6 second memorable advertisement titled \"GreenWise Ice Cream Scoop from Publix\" for the brand Publix Supermarkets",
+    "question_id": 1658
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Carvana - Pioneers of 100% Online Car Buying\" for the brand Carvana",
+    "question_id": 941
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Brainly Tutor\" for the brand Brainly",
+    "question_id": 114
+  },
+  {
+    "question": "Generate the detailed description of a 56 second memorable advertisement titled \"Portal and Half-Life 2 on NVIDIA SHIELD\" for the brand Nvidia",
+    "question_id": 2134
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Cloud Powered: Capital One Shopping | Capital One\" for the brand Capitalone",
+    "question_id": 1897
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Air Circulator - Dayton Product Review Video\" for the brand W.W.Grainger",
+    "question_id": 928
+  },
+  {
+    "question": "Generate the detailed description of a 42 second memorable advertisement titled \"Internet Inspired: The 20-20-20 Rule | Adobe Creative Cloud #Shorts\" for the brand Adobe",
+    "question_id": 1283
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Easy S'mores Dip Recipe\" for the brand Dollar General",
+    "question_id": 1269
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Big Boy #UP4014 Steam Tour Wrap Up\" for the brand Union Pacific",
+    "question_id": 1873
+  },
+  {
+    "question": "Generate the detailed description of a 47 second memorable advertisement titled \"Construction Stock Footage from Adobe Stock | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 1664
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Est\u00e9e Lauder x Google Home: Ask Liv || Healthy Advice\" for the brand Esteelauder",
+    "question_id": 2619
+  },
+  {
+    "question": "Generate the detailed description of a 33 second memorable advertisement titled \"Southwest Airlines New TV Ad\" for the brand Southwest Airlines",
+    "question_id": 289
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Thermo Fisher Scientific COVID-19 Leadership video #1\" for the brand Thermofisher Scientific",
+    "question_id": 1139
+  },
+  {
+    "question": "Generate the detailed description of a 42 second memorable advertisement titled \"#BrushBeliever: How to Apply Foundation with Brushes | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 984
+  },
+  {
+    "question": "Generate the detailed description of a 23 second memorable advertisement titled \"AMD Ryzen PRO 6000 Day-in-the-Life Security | AMD\" for the brand Amd",
+    "question_id": 165
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Go Beyond the Flight with Delta Vacations\" for the brand Delta Airlines",
+    "question_id": 280
+  },
+  {
+    "question": "Generate the detailed description of a 43 second memorable advertisement titled \"Intro \u2502Scan, Bag, Go FAQs \u2502Kroger\" for the brand Kroger",
+    "question_id": 1183
+  },
+  {
+    "question": "Generate the detailed description of a 12 second memorable advertisement titled \"Get on your way to fabulous at Walgreens!\" for the brand Walgreens",
+    "question_id": 1795
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Mastercard - Priceless 2 (30 second TV spot)\" for the brand Mastercard",
+    "question_id": 96
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Tasty Beats | Pepsi\" for the brand Pepsi",
+    "question_id": 120
+  },
+  {
+    "question": "Generate the detailed description of a 10 second memorable advertisement titled \"Back to School - Bike Safety | State Farm\u00ae\" for the brand Statefarm Insurance",
+    "question_id": 1768
+  },
+  {
+    "question": "Generate the detailed description of a 33 second memorable advertisement titled \"Can print embellishment really attract new clients?\" for the brand Xerox",
+    "question_id": 1806
+  },
+  {
+    "question": "Generate the detailed description of a 27 second memorable advertisement titled \"Hovering Art Director Bonus Video: Sunrise, Not Sunset | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 963
+  },
+  {
+    "question": "Generate the detailed description of a 38 second memorable advertisement titled \"The brand-new Mercedes-Benz CLS (2018) | Teaser | Exterior Design\" for the brand Mercedes Benz",
+    "question_id": 488
+  },
+  {
+    "question": "Generate the detailed description of a 23 second memorable advertisement titled \"Cadillac Live \u2013 Gym\" for the brand Cadillac",
+    "question_id": 239
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Our NEW Revlon Candid Campaign | Revlon\" for the brand Revlon",
+    "question_id": 548
+  },
+  {
+    "question": "Generate the detailed description of a 54 second memorable advertisement titled \"Quick & Easy: New York Shabu Shabu French Dip with Au Jus\" for the brand Costco",
+    "question_id": 935
+  },
+  {
+    "question": "Generate the detailed description of a 20 second memorable advertisement titled \"Orange is the New Black | Clip: \"Meet Taystee\" | Netflix\" for the brand Netflix",
+    "question_id": 1280
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Academy Sports + Outdoors Game Day Ritual Commercial: Fall Sports #2\" for the brand Academy Sports Andoutdoors",
+    "question_id": 896
+  },
+  {
+    "question": "Generate the detailed description of a 48 second memorable advertisement titled \"Cigna Healthy Recipe | Vegan Buffalo Chick Pea Lettuce Wraps\" for the brand Cigna",
+    "question_id": 1909
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Amex Offers | American Express\" for the brand American Express",
+    "question_id": 2474
+  },
+  {
+    "question": "Generate the detailed description of a 47 second memorable advertisement titled \"Automotive occupancy grid using TI\u2019s single-chip mmWave sensor\" for the brand Texas Instruments",
+    "question_id": 1114
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Hungry for Better Chicken Anthem :15s\" for the brand Perdue Farms",
+    "question_id": 452
+  },
+  {
+    "question": "Generate the detailed description of a 37 second memorable advertisement titled \"Just Cause 3's Next-Generation WaveWorks Water\" for the brand Nvidia",
+    "question_id": 1309
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"It's Not Work If You Love It - Advance Auto Parts\" for the brand Advance Autoparts",
+    "question_id": 2290
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"STANLEY\u00ae Utility Knives | Dependable. Any Way You Cut It.\u2122\" for the brand Stanley Black&Decker",
+    "question_id": 1036
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Glass Age Today: 2016 Retail Window\" for the brand Corning",
+    "question_id": 1841
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Skechers Energy commercial\" for the brand Skechers",
+    "question_id": 65
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Disney's Aladdin - \"Friend\" TV Spot\" for the brand Walt-Disney",
+    "question_id": 1998
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Toll Brothers Parkside at Tarob Court Plan A4 Tour\" for the brand Toll Brothers",
+    "question_id": 774
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"FlexTemp\u2122 Exterior Latex - Sherwin-Williams\" for the brand Sherwin-Williams",
+    "question_id": 2429
+  },
+  {
+    "question": "Generate the detailed description of a 49 second memorable advertisement titled \"637542 Juvo Travel Seat Cane\" for the brand Costco",
+    "question_id": 1151
+  },
+  {
+    "question": "Generate the detailed description of a 57 second memorable advertisement titled \"Clorox\u00ae How-To : Clean an Outdoor Deck (with Clorox\u00ae Outdoor Bleach)\" for the brand Clorox",
+    "question_id": 1953
+  },
+  {
+    "question": "Generate the detailed description of a 39 second memorable advertisement titled \"KitchenAid Food Grinder Attachment at Bed Bath & Beyond\" for the brand Bedbath&Beyond",
+    "question_id": 2168
+  },
+  {
+    "question": "Generate the detailed description of a 22 second memorable advertisement titled \"Fall Makeup How-To: Negative Space Eyeliner | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 1345
+  },
+  {
+    "question": "Generate the detailed description of a 25 second memorable advertisement titled \"Uber Moto - Beat the Traffic (Hindi) | Uber\" for the brand Uber Technologies",
+    "question_id": 2255
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"BorgWarner Delco Remy Genuine Parts 36SI Brushless Alternator's Isolated Grounding\" for the brand Borgwarner",
+    "question_id": 2664
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Lexus | 2022 December To Remember Runway\" for the brand Lexus",
+    "question_id": 512
+  },
+  {
+    "question": "Generate the detailed description of a 10 second memorable advertisement titled \"READY TO BOWL A MAIDEN OVER?\" for the brand Redbull",
+    "question_id": 288
+  },
+  {
+    "question": "Generate the detailed description of a 57 second memorable advertisement titled \"Add Funds - Direct Deposit | Bluebird | American Express\" for the brand American Express",
+    "question_id": 1546
+  },
+  {
+    "question": "Generate the detailed description of a 23 second memorable advertisement titled \"#Instagram Famous - Purple To Orange Ombre l Lip Happily at Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 1140
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Orange is the New Black | Stop Don't Talk To Me [HD] | Netflix\" for the brand Netflix",
+    "question_id": 1807
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Entergy Solutions Louisiana Update\" for the brand Entergy",
+    "question_id": 1377
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"J12 TURNS 20 \u2013 CHANEL Watches\" for the brand Chanel",
+    "question_id": 542
+  },
+  {
+    "question": "Generate the detailed description of a 53 second memorable advertisement titled \"Abbott in Vault.com\u2019s Top 10 Internships in the U.S.\" for the brand Abbott Laboratories",
+    "question_id": 2127
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Cheaper by the Dozen | Games | Disney+\" for the brand Walt-Disney",
+    "question_id": 2456
+  },
+  {
+    "question": "Generate the detailed description of a 48 second memorable advertisement titled \"Rewards for Your Business | American Express\" for the brand American Express",
+    "question_id": 1172
+  },
+  {
+    "question": "Generate the detailed description of a 37 second memorable advertisement titled \"Williams Sonoma Signature Coffee Machine\" for the brand Williams-Sonoma",
+    "question_id": 2020
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Louis Vuitton Riders of the Knights High Jewelry Collection | LOUIS VUITTON\" for the brand Louis Vuitton",
+    "question_id": 395
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"KELLOGG'S CHOCOS MAGIC 30s\" for the brand Kelloggs",
+    "question_id": 163
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Farm-Fresh Goodness (15 seconds) | Sprouts Farmers Market\" for the brand Sprouts Farmersmarket",
+    "question_id": 1866
+  },
+  {
+    "question": "Generate the detailed description of a 19 second memorable advertisement titled \"Learn How To Use Redken's Iron Shape 11 Finishing Thermal Spray\" for the brand Ulta Beauty",
+    "question_id": 1765
+  },
+  {
+    "question": "Generate the detailed description of a 54 second memorable advertisement titled \"ADAM SANDLER: 100% FRESH | Date Announcement [HD] | Netflix\" for the brand Netflix",
+    "question_id": 2298
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"Gucci Beauty Limited-Edition Flora Makeup\" for the brand Gucci",
+    "question_id": 230
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Red Riding Hood\" for the brand Amazon",
+    "question_id": 1725
+  },
+  {
+    "question": "Generate the detailed description of a 60 second memorable advertisement titled \"Monochromes Eyeshadow Trio | Glossier\" for the brand Glossier",
+    "question_id": 319
+  },
+  {
+    "question": "Generate the detailed description of a 57 second memorable advertisement titled \"Disney's Tomorrowland - \"Jet Pack Ride\"\" for the brand Walt-Disney",
+    "question_id": 1854
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"The DK88: Our Trench Leather bag in a new colour palette\" for the brand Burberry",
+    "question_id": 231
+  },
+  {
+    "question": "Generate the detailed description of a 58 second memorable advertisement titled \"2021 Audio Trends from Adobe Stock | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 803
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"GeForce GTX 980 Now in Notebooks\" for the brand Nvidia",
+    "question_id": 1884
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Now Streaming | Mulan | Disney+\" for the brand Walt-Disney",
+    "question_id": 1347
+  },
+  {
+    "question": "Generate the detailed description of a 31 second memorable advertisement titled \"MasterCard: Days That Change Everything (Canadian Tire)\" for the brand Mastercard",
+    "question_id": 53
+  },
+  {
+    "question": "Generate the detailed description of a 51 second memorable advertisement titled \"Friends From College | Teaser: Girls Night Out [HD] | Netflix\" for the brand Netflix",
+    "question_id": 2578
+  },
+  {
+    "question": "Generate the detailed description of a 54 second memorable advertisement titled \"Rock Your Protein Isolation\" for the brand Thermofisher Scientific",
+    "question_id": 2155
+  },
+  {
+    "question": "Generate the detailed description of a 46 second memorable advertisement titled \"Link2Home 50ft Heavy Duty Cord Video\" for the brand Costco",
+    "question_id": 1732
+  },
+  {
+    "question": "Generate the detailed description of a 53 second memorable advertisement titled \"Adjustable Tilt/Telescoping Steering Column | Ford How-To | Ford\" for the brand Ford Motor Company",
+    "question_id": 2486
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"A3 Value Everyday with Xerox\u00ae B1022 / B1025 Multifunction A3 Printer\" for the brand Xerox",
+    "question_id": 840
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Learn About Consolidating Old 401(k)s with LINK by Prudential\" for the brand Prudential Financial",
+    "question_id": 2001
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Introducing the GUESS Recycling Program with Homeboy Industries \u267b\ufe0f\" for the brand Guess",
+    "question_id": 453
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"India - Cadbury Dairy Milk Shots - Anurag Kashyap with friends TV Commercial\" for the brand Mondelez International",
+    "question_id": 936
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"The Truth Is Essential: Life Right Now | The New York Times\" for the brand The New York Times",
+    "question_id": 468
+  },
+  {
+    "question": "Generate the detailed description of a 57 second memorable advertisement titled \"Manifest: Season 4 | Official Teaser | Netflix\" for the brand Netflix",
+    "question_id": 1232
+  },
+  {
+    "question": "Generate the detailed description of a 34 second memorable advertisement titled \"Monster Advert Mango Loco by Kyle Gonzales\" for the brand Monster",
+    "question_id": 358
+  },
+  {
+    "question": "Generate the detailed description of a 51 second memorable advertisement titled \"Backgrounds from Adobe Stock | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 1457
+  },
+  {
+    "question": "Generate the detailed description of a 49 second memorable advertisement titled \"Coffee Stock Footage from Adobe Stock | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 1609
+  },
+  {
+    "question": "Generate the detailed description of a 40 second memorable advertisement titled \"Anthony Ingrown Hair Treatment | Ulta Beauty\" for the brand Ulta Beauty",
+    "question_id": 1130
+  },
+  {
+    "question": "Generate the detailed description of a 46 second memorable advertisement titled \"Organise the garage\" for the brand Homedepot",
+    "question_id": 2143
+  },
+  {
+    "question": "Generate the detailed description of a 19 second memorable advertisement titled \"Learn How To Use Redken's Guts 10 Volume Spray Foam\" for the brand Ulta Beauty",
+    "question_id": 1093
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Prime Day Show x Billie Eilish | H.E.R. | Kid Cudi\" for the brand Amazon",
+    "question_id": 1510
+  },
+  {
+    "question": "Generate the detailed description of a 42 second memorable advertisement titled \"MARS NEEDS MOMS \"Meeting Gribble\" Clip\" for the brand Walt-Disney",
+    "question_id": 1509
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Shining a Light on Women\u2019s Rights | The Truth Has a Voice | The New York Times\" for the brand The New York Times",
+    "question_id": 202
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"17838 TUSACU Tires Whiteboard\" for the brand Lithia Motors",
+    "question_id": 1104
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Bad Banking Red Flags (featuring Justin Herbert) | SoFi\" for the brand Sofi",
+    "question_id": 431
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Glamour Magazine's Holiday Hustle Shares Top ULTA Gifts\" for the brand Ulta Beauty",
+    "question_id": 729
+  },
+  {
+    "question": "Generate the detailed description of a 54 second memorable advertisement titled \"Weekend Getaways, On-Demand fuelled by Musafir.com | Uber\" for the brand Uber Technologies",
+    "question_id": 2271
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Skechers Swirl Tech commercial\" for the brand Skechers",
+    "question_id": 406
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"PPG - Home Ice (2017)\" for the brand Ppg",
+    "question_id": 2355
+  },
+  {
+    "question": "Generate the detailed description of a 38 second memorable advertisement titled \"Alexa Auto \u2013 Asking Questions and Trivia\" for the brand Amazon",
+    "question_id": 2561
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Courtney Force Save on Brakes | Think Ahead. Think Advance.\" for the brand Advance Autoparts",
+    "question_id": 1753
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Milwaukee Tool Review - M18\u2122 Compact Impact Wrench Product Review\" for the brand W.W.Grainger",
+    "question_id": 1764
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Mondelez Thailand TVC OREO Wonderfilled: VAMPIRE\" for the brand Mondelez International",
+    "question_id": 1560
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"Import Direct OE Replacement Parts\" for the brand O'Reilly Automotive",
+    "question_id": 1956
+  },
+  {
+    "question": "Generate the detailed description of a 50 second memorable advertisement titled \"Create Customized Folded Cards at Walgreens\" for the brand Walgreens",
+    "question_id": 1392
+  },
+  {
+    "question": "Generate the detailed description of a 33 second memorable advertisement titled \"Deductible Rewards | Allstate\" for the brand Allstate",
+    "question_id": 1249
+  },
+  {
+    "question": "Generate the detailed description of a 33 second memorable advertisement titled \"Make It: Create a YouTube Video with RocketJump | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 1230
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"\"We'll handle the stuff\" - Wayfair Home Organization Commercial 2022\" for the brand Wayfair",
+    "question_id": 2333
+  },
+  {
+    "question": "Generate the detailed description of a 16 second memorable advertisement titled \"SAP Concur Solutions: Ease of Use\" for the brand Sap Concur",
+    "question_id": 415
+  },
+  {
+    "question": "Generate the detailed description of a 52 second memorable advertisement titled \"Happy 10th Birthday, News Feed\" for the brand Facebook",
+    "question_id": 1548
+  },
+  {
+    "question": "Generate the detailed description of a 33 second memorable advertisement titled \"Wowder by Glossier, feat. Angela, Madeleine, and Ana\" for the brand Glossier",
+    "question_id": 396
+  },
+  {
+    "question": "Generate the detailed description of a 15 second memorable advertisement titled \"KFC  Harmony NEW Buffalo Ranch Sauce\" for the brand Kfc",
+    "question_id": 430
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Trailer Park Boys- Clip | Behind the Scenes with Mike Clattenberg and John Dunsworth | Netflix\" for the brand Netflix",
+    "question_id": 1727
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Seeing Efficient Flight Differently with Less Fuel and More Efficient Engines | GE\" for the brand General Electric",
+    "question_id": 829
+  },
+  {
+    "question": "Generate the detailed description of a 34 second memorable advertisement titled \"Watch it Work Williams Sonoma Ultimate Cookie Press | Williams Sonoma\" for the brand Williams-Sonoma",
+    "question_id": 1362
+  },
+  {
+    "question": "Generate the detailed description of a 45 second memorable advertisement titled \"Adobe Plugins and Integrations- Find Your Perfect Plugin | Adobe Creative Cloud\" for the brand Adobe",
+    "question_id": 2049
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"Foot Locker x adidas Home of Classics\" for the brand Footlocker",
+    "question_id": 1942
+  },
+  {
+    "question": "Generate the detailed description of a 38 second memorable advertisement titled \"Save more at Publix with Coupons!\" for the brand Publix Supermarkets",
+    "question_id": 2164
+  },
+  {
+    "question": "Generate the detailed description of a 22 second memorable advertisement titled \"Nestl\u00e9 a+ Nourish Milk: 61 Quality Checks\" for the brand Dick'S Sporting Goods",
+    "question_id": 71
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Sierra Redwood - Sherwin-Williams\" for the brand Sherwin-Williams",
+    "question_id": 996
+  },
+  {
+    "question": "Generate the detailed description of a 30 second memorable advertisement titled \"PG&E Solar Water Heating Commercial\" for the brand Pg&E",
+    "question_id": 1226
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"Cineshorts Season 2 - We\u2019re back!\" for the brand Viacom",
+    "question_id": 2357
+  },
+  {
+    "question": "Generate the detailed description of a 9 second memorable advertisement titled \"Anything You Can Do Eye Can Do Better.\" for the brand Esteelauder",
+    "question_id": 2338
+  },
+  {
+    "question": "Generate the detailed description of a 21 second memorable advertisement titled \"Anti-Submarine Warfare and Fire Scout\" for the brand Northropgrumman",
+    "question_id": 1858
+  },
+  {
+    "question": "Generate the detailed description of a 35 second memorable advertisement titled \"KATE | Official Date Announcement | Netflix\" for the brand Netflix",
+    "question_id": 1533
+  },
+  {
+    "question": "Generate the detailed description of a 53 second memorable advertisement titled \"How Payments Work with Instant Pay | Uber Support | Uber\" for the brand Uber Technologies",
+    "question_id": 2525
+  }
+]
