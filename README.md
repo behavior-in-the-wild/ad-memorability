@@ -30,7 +30,7 @@ git clone https://github.com/behavior-in-the-wild/ad-memorability.git
 Create and activate the Conda environment:
 
 ```shell
-Copy code
+
 conda create -n admem python=3.10 -y
 conda activate admem
 pip install --upgrade pip  # Enable PEP 660 support
@@ -52,7 +52,7 @@ wget https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BL
 ### Step 4: Set Up LLaMA-VID
 
 ```shell
-cd path/to/LLaMA-VID
+cd path/to/ad-memorability
 mkdir work_dirs
 cd work_dirs
 git lfs install
@@ -62,7 +62,7 @@ git clone https://huggingface.co/YanweiLi/llama-vid-13b-full-224-video-fps-1
 ### Step 5: Prepare Data Directory
 
 ```shell
-cd path/to/LLaMA-VID
+cd path/to/ad-memorability
 mkdir data
 cd ./data
 ```
