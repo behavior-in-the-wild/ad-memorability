@@ -1,53 +1,79 @@
 # Long-Term Ad Memorability: Understanding & Generating Memorable Ads
 
- [[Project Page](https://behavior-in-the-wild.github.io/memorability.html)]   [[Data](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA)] [[Paper](https://arxiv.org/abs/2309.00378)]
 
 
+- [**Project Page**](https://behavior-in-the-wild.github.io/memorability.html)
+- [**Data (LAMBDA)**](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA)
+- [**Data (UltraLAMBDA)**](https://huggingface.co/datasets/behavior-in-the-wild/UltraLAMBDA)
+- [**Paper**](https://arxiv.org/abs/2309.00378)
 
-<div align=center>
-<img width="100%" src="imgs/example.png"/>
+<div align="center">
+    <img width="100%" src="imgs/example.png" alt="Example Image"/>
 </div>
 
-## Install and setup
-Please follow the instructions below to install the required packages.
-1. Clone this repository
-```bash
-git clone xx
+---
+
+## Installation and Setup
+
+Follow the steps below to install the required packages and set up the environment.
+
+### Step 1: Clone the Repository
+
+Open your terminal and clone the repository using the following command:
+
+```shell
+git clone https://github.com/behavior-in-the-wild/ad-memorability.git
 ```
 
+### Step 2: Set Up the Conda Environment
 
-Run the following commands for setup
+Create and activate the Conda environment:
+
 ```shell
+Copy code
 conda create -n admem python=3.10 -y
 conda activate admem
-pip install --upgrade pip  # enable PEP 660 support
+pip install --upgrade pip  # Enable PEP 660 support
 pip install -e .
 pip install ninja
 pip install flash-attn --no-build-isolation
+```
 
-sudo apt install git-lfs
+### Step 3: Set Up Model Zoo
 
+Create directories and download the required models:
+
+```shell
 mkdir model_zoo
 mkdir model_zoo/LAVIS
 cd ./model_zoo/LAVIS
 wget https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth
+```
+### Step 4: Set Up LLaMA-VID
 
+```shell
 cd path/to/LLaMA-VID
 mkdir work_dirs
 cd work_dirs
 git lfs install
 git clone https://huggingface.co/YanweiLi/llama-vid-13b-full-224-video-fps-1
+```
 
+### Step 5: Prepare Data Directory
+
+```shell
 cd path/to/LLaMA-VID
 mkdir data
 cd ./data
 ```
+1. Create .npy files of your videos. A sample file is given in the sample folder. 
+2. Store them in as ./data/videos/video_scenes/{id}.npy
+
 
 ## Training
 
-1. Create .npy files of your videos. A sample file is given in the data folder.
-2. Store them in as ./data/videos/video_scenes/{id}.npy
-3. Install your desired deepspeed version and run train.sh
+Install your desired deepspeed version and run train.sh
+
 ```shell
 bash train.sh
 ```
