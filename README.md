@@ -68,7 +68,8 @@ mkdir data
 cd ./data
 ```
 
-LAMBDA videos are available on huggingface
+LAMBDA videos are available on [huggingface](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA/blob/main/LAMBDAVideos.zip)!
+LAMBDA sampled frames coming soon!
 
 1. Create .npy files of your videos. A sample file is given in the sample folder.
 2. Store them in as ./data/videos/video_scenes/{id}.npy
