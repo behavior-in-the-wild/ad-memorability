@@ -68,6 +68,8 @@ mkdir data
 cd ./data
 ```
 
+LAMBDA videos are available on huggingface
+
 1. Create .npy files of your videos. A sample file is given in the sample folder.
 2. Store them in as ./data/videos/video_scenes/{id}.npy
 
