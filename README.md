@@ -37,6 +37,8 @@ pip install --upgrade pip  # Enable PEP 660 support
 pip install -e .
 pip install ninja
 pip install flash-attn --no-build-isolation
+pip install opencv-python
+pip install numpy==1.26.4
 ```
 
 ### Step 3: Set Up Model Zoo
