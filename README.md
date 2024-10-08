@@ -69,6 +69,7 @@ cd ./data
 ```
 
 LAMBDA videos are available on [huggingface](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA/blob/main/LAMBDAVideos.zip)!
+
 LAMBDA sampled frames coming soon!
 
 1. Create .npy files of your videos. A sample file is given in the sample folder.
