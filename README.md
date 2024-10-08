@@ -83,7 +83,7 @@ LAMBDA videos are available on huggingface
         lambda_combine_train.json
         lambda_cs_train.json
 
-3. If you don't have the frames and want to train directly on the video @ 1 FPS, reformat your data as given [./data/lambda_train.json](here)  and replace the --data_path argument with lambda_train.json.
+3. If you don't have the frames and want to train directly on the video @ 1 FPS, reformat your data as given [here](./data/lambda_train.json)  and replace the --data_path argument with lambda_train.json.
 
 4. If you're training on your own dataset, create a train.json file. Each entry should contain an id and a conversation. You can use lambda_bs_train.json as a reference for formatting.
 
