@@ -1,7 +1,5 @@
 # Long-Term Ad Memorability: Understanding & Generating Memorable Ads
 
-
-
 - [**Project Page**](https://behavior-in-the-wild.github.io/memorability.html)
 - [**Data (LAMBDA)**](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA)
 - [**Data (UltraLAMBDA)**](https://huggingface.co/datasets/behavior-in-the-wild/UltraLAMBDA)
@@ -51,6 +49,7 @@ mkdir model_zoo/LAVIS
 cd ./model_zoo/LAVIS
 wget https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth
 ```
+
 ### Step 4: Set Up LLaMA-VID
 
 ```shell
@@ -68,10 +67,16 @@ cd path/to/ad-memorability
 mkdir data
 cd ./data
 ```
-1. Create .npy files of your videos. A sample file is given in the sample folder. 
+
+LAMBDA videos are available on [huggingface](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA/blob/main/LAMBDAVideos.zip)!
+
+LAMBDA sampled frames coming soon!
+
+1. Create .npy files of your videos. A sample file is given in the sample folder.
 2. Store them in as ./data/videos/video_scenes/{id}.npy
 
 ## Training
+
 1. Install the desired version of DeepSpeed.
 
 2. Update the train.sh script:
@@ -79,9 +84,10 @@ cd ./data
         lambda_bs_train.json
         lambda_combine_train.json
         lambda_cs_train.json
-        
+
+3. If you don't have the frames and want to train directly on the video @ 1 FPS, reformat your data as given [here](./data/lambda_train.json)  and replace the --data_path argument with lambda_train.json.
+
 4. If you're training on your own dataset, create a train.json file. Each entry should contain an id and a conversation. You can use lambda_bs_train.json as a reference for formatting.
-   
 
 ```shell
 bash train.sh
@@ -90,17 +96,20 @@ bash train.sh
 ## Inference
 
 1. For predicting memorability scores:
+
 ```shell
 bash eval_bs.sh
 ```
+
 2. For generating memorable videos:
+
 ```shell
 bash eval_cs.sh
 ```
 
 ## Citation
-If you find this repo useful for your research, please consider citing the paper
 
+If you find this repo useful for your research, please consider citing the paper
 
 ```bibtex
 @misc{s2024longtermadmemorabilityunderstanding,
@@ -113,9 +122,10 @@ If you find this repo useful for your research, please consider citing the paper
             url={https://arxiv.org/abs/2309.00378}}
 ```
 
-
 ## Acknowledgement
+
 We would like to thank the following repos for their great work:
+
 - This work is built upon the [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
 - This work is built upon the [LLaVA](https://github.com/haotian-liu/LLaVA).
 - This work utilizes LLMs from [Vicuna](https://github.com/lm-sys/FastChat).
