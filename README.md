@@ -10,7 +10,7 @@
 
 <div align="center">
     <img width="100%" src="imgs/Human-Behavior.png" alt="Example Image"/>
-    <img width="100%" src="imgs/example2.png" alt="Example Image"/>
+    <img width="100%" src="imgs/example.png" alt="Example Image"/>
 </div>
 
 ---
