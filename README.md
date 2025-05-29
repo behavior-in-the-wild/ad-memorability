@@ -1,5 +1,7 @@
 # Long-Term Ad Memorability: Understanding & Generating Memorable Ads
 
+## 🔥 NEW: We have released the [Behavior LLaVA](https://github.com/behavior-in-the-wild/behavior-llava) dataset, and training scripts! Just replace the data in the train.sh script after processing data from BLIFT.
+
 - [**Memorability Project Page**](https://behavior-in-the-wild.github.io/memorability.html)
 - [**Behavior LLaVA Project Page**](https://behavior-in-the-wild.github.io/behavior-llava.html)
 - [**Data (LAMBDA)**](https://huggingface.co/datasets/behavior-in-the-wild/LAMBDA)
