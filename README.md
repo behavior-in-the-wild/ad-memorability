@@ -166,3 +166,7 @@ We would like to thank the following repos for their great work:
 ## License
 
 The data and checkpoint is intended and licensed for research use only. They are also restricted to uses that follow the license agreement of LLaMA-VID,LLaVA, LLaMA, Vicuna, Reddit, YouTube, and GPT-4.
+
+## Contact
+
+In case of any queries please feel free to reach out to [(behavior-in-the-wild@googlegroups.com)](behavior-in-the-wild@googlegroups.com)
